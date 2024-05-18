@@ -1,2 +1,2 @@
-# Physletric
-Another from Clxcq
+# Phsyletric
+C++ long skidded GDI trojan by Clxcq
